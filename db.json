@@ -1,0 +1,5 @@
+{
+	"hospitals":[
+		{"id": 1, "hospitalname" : "Mittal Hospital & Research Center"},{"id": 2,  "hospitalname" :"Sant Sukhdev Hospital Alwar"},{"id": 3, "hospitalname" : "Priya Hospital, Baran"},{"id": 4, "hospitalname" : "Jindal Nursing Home"},{"id": 5, "hospitalname" : "ANURAG NURSING HOME"},{"id": 6, "hospitalname" :  "BUNDI HOSPITAL AND RESEACH CENTER"},{"id": 7, "hospitalname" : "jan sewa Hospital tantia Univeraity-I"},{"id": 8, "hospitalname" : "Apex Hospital Suratgarh"},{"id": 9, "hospitalname" : "Jan Sewa Hospital tantia University-II"},{"id": 10, "hospitalname" : "Hissaria Multispeciality Hospital, Hanumangarh Town"},{"id": 11, "hospitalname" : "Vivekanand Swasthay Sewa Samiti Hospital, Bhadra"},{"id": 12, "hospitalname" : "SHALBY, CHITRAKUT, JAIPUR-I"},{"id": 13, "hospitalname" : "Eternal Heart Care Centre, Jaipur - 2"},{"id": 14, "hospitalname" : "JNU Hospital, Jaipur - 2"},{"id": 15, "hospitalname" : "C K Birla Hospital ( R B H ), Jaipur - 2" }
+	]
+}
